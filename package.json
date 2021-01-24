@@ -1,0 +1,11 @@
+{
+  "name": "heos-controller-common",
+  "version": "1.0.0",
+  "description": "Common modules for the HEOS controller client and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Kenny",
+  "license": "ISC"
+}
